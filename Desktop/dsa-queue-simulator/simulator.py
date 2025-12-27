@@ -76,3 +76,10 @@ class TrafficSimulator:
 if __name__ == "__main__":
     sim = TrafficSimulator()
     sim.run_simulation()
+# Inside your while loop in simulator.py
+print(f"\n--- JUNCTION STATUS ---")
+print(f"ROAD D: STATE 2 (GREEN) - Serving {v_to_serve} vehicles")
+print(f"ROAD A: STATE 1 (RED)")
+print(f"ROAD B: STATE 1 (RED)")
+print(f"ROAD C: STATE 1 (RED)")
+print(f"-----------------------")
