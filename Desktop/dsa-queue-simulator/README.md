@@ -27,6 +27,9 @@ Step 4: Monitoring the Junction
 If Lane A (AL2) has more than 5 vehicles, you will see a [!] PRIORITY MODE message.
 
 The simulator will automatically calculate the green light duration based on the formula: T=∣V∣×t.
+![2025-12-27 16-28-01](https://github.com/user-attachments/assets/3a7439f1-9338-44a4-8524-43615c07f0ea)
+
+
 
 \## 📚 References
 
